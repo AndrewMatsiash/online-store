@@ -1,0 +1,123 @@
+[
+  {
+    "id": "el1",
+    "img": "https://i.ibb.co/njPzjPD/11.jpg",
+    "name": "Apple iPhone 11",
+    "quantity": "12",
+    "price": 200,
+    "realeaseDate": 2018,
+    "popular": "yes",
+    "color": "White",
+    "numberOfCameras": 2,
+    "brand": "Apple"
+  },
+  {
+    "id": "el2",
+    "img": "https://i.ibb.co/Qv869FZ/12.jpg",
+    "name": "Apple iPhone 12",
+    "quantity": 2,
+    "price": 200,
+    "realeaseDate": 2010,
+    "popular": "нет",
+    "color": "Желтый ",
+    "numberOfCameras": 3,
+    "brand": "Apple"
+  },
+  {
+    "id": "el3",
+    "img": "https://i.ibb.co/Pw2bMqB/13.jpg",
+    "name": "Apple iPhone 13",
+    "quantity": 10,
+    "price": 200,
+    "realeaseDate": 2009,
+    "popular": "нет",
+    "color": "Red",
+    "numberOfCameras": 3,
+    "brand": "Apple"
+  },
+  {
+    "id": "el4",
+    "img": "https://i.ibb.co/smnd3QM/se.jpg",
+    "name": "Apple iPhone SE",
+    "quantity": 12,
+    "price": 200,
+    "realeaseDate": 2004,
+    "popular": "нет",
+    "color": "White",
+    "numberOfCameras": 1,
+    "brand": "Apple"
+  },
+
+  {
+    "id": "el5",
+    "img": "https://i.ibb.co/2ZRPKFt/x4.jpg",
+    "name": " Xiaomi Poco X4 pro",
+    "quantity": 1,
+    "price": 200,
+    "realeaseDate": 2014,
+    "popular": "нет",
+    "color": "Желтый ",
+    "numberOfCameras": 2,
+    "brand": "Xiaomi"
+  },
+  {
+    "id": "el6",
+    "img": "https://i.ibb.co/BB3ZFYn/9c.jpg",
+    "name": "Xiaomi Redmi 9C 3 / 64gb",
+    "quantity": 6,
+    "price": 200,
+    "realeaseDate": 2010,
+    "popular": "нет",
+    "color": "red",
+    "numberOfCameras": 2,
+    "brand": "Xiaomi"
+  },
+  {
+    "id": "el7",
+    "img": "https://i.ibb.co/1qxCkvQ/нетte11.jpg",
+    "name": "Xiaomi Redmi нетte 11",
+    "quantity": 4,
+    "price": 200,
+    "realeaseDate": 2012,
+    "popular": "yes",
+    "color": "White",
+    "numberOfCameras": 1,
+    "brand": "Xiaomi"
+  }, {
+    "id": "el8",
+    "img": "https://i.ibb.co/Lv2Sfj1/A03.png",
+    "name": "Samsung Galaxy A03",
+    "quantity": 5,
+    "price": 200,
+    "realeaseDate": 2000,
+    "popular": "нет",
+    "color": "red",
+    "numberOfCameras": 2,
+    "brand": "samsung"
+  },
+  {
+    "id": "el9",
+    "img": "",
+    "name": "https://i.ibb.co/SBC19nL/S20.jpg",
+    "quantity": 3,
+    "price": 200,
+    "realeaseDate": 2022,
+    "popular": "нет",
+    "color": "Желтый ",
+    "numberOfCameras": 1,
+    "brand": "samsung"
+  },
+  {
+    "id": "el10",
+    "img": "https://i.ibb.co/nwvz5zV/S21.jpg",
+    "name": "Samsung Galaxy S21",
+    "quantity": 2,
+    "price": 200,
+    "realeaseDate": 2019,
+    "popular": "нет",
+    "color": "White",
+    "numberOfCameras": 3,
+    "brand": "samsung"
+  }
+
+]

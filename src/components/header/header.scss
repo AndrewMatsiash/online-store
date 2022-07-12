@@ -1,0 +1,14 @@
+.header-container {
+  font-size: 25px;
+    display: flex;
+    align-items:center;
+    height: 50px;
+    padding: var(--spacing-small);
+    background-color: var(--color-medium);
+}
+.header-counter {
+    margin-left: auto;
+    padding-right: var(--spacing-small);
+    font-weight: bold;
+    cursor: pointer;
+}

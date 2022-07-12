@@ -1,0 +1,42 @@
+
+.button{
+   background-color: transparent;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 0;
+    cursor: pointer;
+    font-size: 0;
+    height: 30px;
+    margin: 10px 7px;
+    outline: 0;
+    position: relative;
+    width: 40px;
+}
+
+
+.filters-value{
+  padding: 0px 10px;
+}
+
+.filters-brand{
+  display: flex;
+  align-items: center;
+}
+
+.btn_active{
+  filter: invert(9%) sepia(63%) saturate(461%) hue-rotate(322deg) brightness(83%) contrast(88%);
+}
+
+.btn-samsung{
+  background-image: url('./assets/samsung.svg');
+
+}
+.btn-apple{
+  background-image: url('./assets/apple.svg');
+}
+
+.btn-xiaomi{
+  background-image: url('./assets/xiaomi.svg');
+}
+
